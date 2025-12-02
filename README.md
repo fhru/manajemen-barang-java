@@ -8,7 +8,6 @@ Aplikasi desktop Java untuk manajemen data barang dengan fitur CRUD (Create, Rea
 UjianProject/
 ├── pom.xml
 ├── README.md
-├── MANUAL.md
 └── src/main/
     ├── java/com/rpl/ujianproject/
     │   ├── Main.java
@@ -34,8 +33,8 @@ UjianProject/
 ### 1. Clone/Download Project
 
 ```bash
-git clone <repository-url>
-cd UjianProject
+git clone https://github.com/fhru/manajemen-barang-java.git
+cd manajemen-barang-java
 ```
 
 ### 2. Konfigurasi Database
